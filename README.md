@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Interactive Terminal" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Virtual+World+Creator+%26+Indie+Game+Dev;Unity+%7C+Godot+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+C;Native+Mobile+App+Engineer+(Kotlin+%7C+React+Native+%7C+Flutter);Full-Stack+Architect+%26+High-Velocity+Web+Engineer;Browser+Extensions+%26+Systems+Automation+Builder;Turning+Caffeine+%26+Vision+into+Production-Ready+Software" alt="Typing Animation" />
 </p>
 
@@ -57,6 +53,8 @@
         <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT_%26_AUTOMATION-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Software Development & Automation" />
         <br /><br />
         <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,docker" alt="Systems & Automation Technologies" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
       </td>
     </tr>
   </table>
@@ -130,8 +128,9 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
-<h4 align="center">DevOps, Systems & Tooling</h4>
+<h4 align="center">DevOps, Systems & Automation</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -155,10 +154,6 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itsfahimm&theme=radical&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsfahimm&theme=radical" alt="Repos Per Language" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Developer Joke" />
 </p>
 
 ---
