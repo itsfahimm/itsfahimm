@@ -40,19 +40,19 @@
       <td width="50%" align="center" valign="middle">
         <img src="https://img.shields.io/badge/WEBSITE_DEVELOPMENT_%26_FULL_STACK-EA580C?style=for-the-badge&logo=react&logoColor=white" alt="Website Development" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,laravel,php,nodejs,nestjs,django,fastapi,tailwind,ts" alt="Web Technologies" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,tailwind,nodejs,express,nestjs,laravel,django,fastapi,graphql,ts&perline=8" alt="Web Technologies" />
       </td>
       <td width="50%" align="center" valign="middle">
         <img src="https://img.shields.io/badge/EXTENSIONS_%26_DESKTOP_SOFTWARE-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Extension & Desktop Development" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=electron,tauri,wasm,vite,js,html,css" alt="Desktop & Extension Technologies" />
+        <img src="https://skillicons.dev/icons?i=electron,tauri,wasm,vite,js,ts,html,css" alt="Desktop & Extension Technologies" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
         <img src="https://img.shields.io/badge/SYSTEMS_ENGINEERING_%26_AI_AUTOMATION-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Software Engineering & AI Automation" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=python,go,rust,bash,docker,kubernetes,linux,git,github" alt="Systems & Automation Technologies" />
+        <img src="https://skillicons.dev/icons?i=python,go,rust,bash,docker,kubernetes,linux,git" alt="Systems & Automation Technologies" />
         <br /><br />
         <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
         <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
@@ -76,7 +76,7 @@
 <h3 align="center">TECHNICAL STACK & ARCHITECTURE</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,c,java,kotlin,swift,dart,go,rust,php,ruby,lua,bash,unreal,unity,godot,blender,androidstudio,react,flutter,electron,tauri,wasm,vite,html,css,tailwind,bootstrap,sass,nextjs,vue,angular,svelte,nodejs,express,nestjs,laravel,django,fastapi,graphql,ai,docker,kubernetes,linux,git,postgres,mysql,mongodb,redis,sqlite,mariadb,firebase,supabase,prisma,github,postman,aws,cloudflare,vscode&perline=16" alt="Comprehensive Polyglot Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,c,java,kotlin,swift,dart,go,rust,php,ruby,lua,bash,unreal,unity,godot,blender,androidstudio,react,flutter,electron,tauri,wasm,vite,html,css,tailwind,bootstrap,sass,nextjs,vue,angular,svelte,nodejs,express,nestjs,laravel,django,fastapi,graphql,ai,docker,kubernetes,linux,git,postgres,mysql,mongodb,redis,sqlite,cassandra,dynamodb,firebase,supabase,prisma,github,aws,gcp,cloudflare,nginx,vscode&perline=16" alt="Comprehensive Polyglot Tech Stack" />
 </p>
 
 <h4 align="center">Artificial Intelligence, LLMs & AI Automation</h4>
