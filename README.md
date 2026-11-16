@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Virtual+World+Creator+%26+Indie+Game+Dev;Unity+%7C+Godot+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+C;AI+Automation+%26+Agentic+Workflows+(Antigravity+%7C+Cursor+%7C+Claude);Native+Mobile+App+Engineer+(Kotlin+%7C+React+Native+%7C+Flutter);Full-Stack+Architect+%26+High-Velocity+Web+Engineer;Turning+Caffeine+%26+Vision+into+Production-Ready+Software" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Polyglot+Software+Architect+%26+System+Engineer;Game+Developer+(Unreal+Engine+%7C+Unity+%7C+Godot+%7C+Blender);AI+Automation+%26+Agentic+Workflows+(Antigravity+%7C+Cursor+%7C+Claude);Mobile+App+Engineer+(Kotlin+%7C+Swift+%7C+React+Native+%7C+Flutter);Full-Stack+Web+Specialist+(Next.js+%7C+NestJS+%7C+Laravel+%7C+Django);Systems+%26+Cloud+Architect+(Go+%7C+Rust+%7C+Docker+%7C+Kubernetes);Turning+Complex+Logic+into+Production-Grade+Digital+Reality" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -28,31 +28,31 @@
       <td width="50%" align="center" valign="middle">
         <img src="https://img.shields.io/badge/MOBILE_APP_DEVELOPMENT-0284C7?style=for-the-badge&logo=android&logoColor=white" alt="Mobile App Development" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,flutter,dart,firebase" alt="Mobile Technologies" />
+        <img src="https://skillicons.dev/icons?i=kotlin,java,swift,androidstudio,react,flutter,dart,firebase" alt="Mobile Technologies" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/GAME_DEVELOPMENT_%26_3D-7C3AED?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development" />
+        <img src="https://img.shields.io/badge/GAME_DEVELOPMENT_%26_3D_WORLDS-7C3AED?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Game Development" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,c" alt="Game Technologies" />
+        <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender,cs,cpp,c,lua" alt="Game Technologies" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/WEBSITE_DEVELOPMENT-EA580C?style=for-the-badge&logo=react&logoColor=white" alt="Website Development" />
+        <img src="https://img.shields.io/badge/WEBSITE_DEVELOPMENT_%26_FULL_STACK-EA580C?style=for-the-badge&logo=react&logoColor=white" alt="Website Development" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,tailwind,ts" alt="Web Technologies" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,laravel,php,nodejs,nestjs,django,fastapi,tailwind,ts" alt="Web Technologies" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/EXTENSION_DEVELOPMENT-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Extension Development" />
+        <img src="https://img.shields.io/badge/EXTENSIONS_%26_DESKTOP_SOFTWARE-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Extension & Desktop Development" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=js,html,css,vite" alt="Extension Technologies" />
+        <img src="https://skillicons.dev/icons?i=electron,tauri,wasm,vite,js,html,css" alt="Desktop & Extension Technologies" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING_%26_AI_AUTOMATION-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Software Engineering & AI Automation" />
+        <img src="https://img.shields.io/badge/SYSTEMS_ENGINEERING_%26_AI_AUTOMATION-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Software Engineering & AI Automation" />
         <br /><br />
-        <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,docker" alt="Systems & Automation Technologies" />
+        <img src="https://skillicons.dev/icons?i=python,go,rust,bash,docker,kubernetes,linux,git,github" alt="Systems & Automation Technologies" />
         <br /><br />
         <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
         <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
@@ -76,7 +76,7 @@
 <h3 align="center">TECHNICAL STACK & ARCHITECTURE</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,c,ts,js,py,kotlin,dart,php,html,css,react,nextjs,flutter,laravel,tailwind,nodejs,express,mongodb,postgres,mysql,redis,supabase,firebase,sqlite,prisma,git,github,docker,linux,ai&perline=17" alt="Comprehensive Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,c,java,kotlin,swift,dart,go,rust,php,ruby,lua,bash,unreal,unity,godot,blender,androidstudio,react,flutter,electron,tauri,wasm,vite,html,css,tailwind,bootstrap,sass,nextjs,vue,angular,svelte,nodejs,express,nestjs,laravel,django,fastapi,graphql,ai,docker,kubernetes,linux,git,postgres,mysql,mongodb,redis,sqlite,mariadb,firebase,supabase,prisma,github,postman,aws,cloudflare,vscode&perline=16" alt="Comprehensive Polyglot Tech Stack" />
 </p>
 
 <h4 align="center">Artificial Intelligence, LLMs & AI Automation</h4>
@@ -93,8 +93,9 @@
   <img src="https://img.shields.io/badge/n8n_AI_Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-<h4 align="center">Game Development, 3D Physics & Engines</h4>
+<h4 align="center">Game Engineering, 3D Physics & Engines</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
@@ -102,60 +103,96 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
 </p>
 
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">Core Programming Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-<h4 align="center">Frameworks & Mobile / Web Engines</h4>
+<h4 align="center">Frontend Frameworks & UI Architecture</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+<h4 align="center">Backend Frameworks & Runtime Engines</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
 </p>
 
-<h4 align="center">Databases & Cloud Architecture</h4>
+<h4 align="center">Desktop Applications & Browser Extensions</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions-059669?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Manifest V3" />
+</p>
+
+<h4 align="center">Databases, Caching & Distributed Systems</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-<h4 align="center">DevOps, Systems & Tooling</h4>
+<h4 align="center">DevOps, Cloud, Containers & Tooling</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 ---
