@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Virtual+World+Creator+%26+Indie+Game+Dev;Unity+%7C+Godot+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+C;Native+Mobile+App+Engineer+(Kotlin+%7C+React+Native+%7C+Flutter);Full-Stack+Architect+%26+High-Velocity+Web+Engineer;Browser+Extensions+%26+Systems+Automation+Builder;Turning+Caffeine+%26+Vision+into+Production-Ready+Software" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Virtual+World+Creator+%26+Indie+Game+Dev;Unity+%7C+Godot+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+C;AI+Automation+%26+Agentic+Workflows+(Antigravity+%7C+Cursor+%7C+Claude);Native+Mobile+App+Engineer+(Kotlin+%7C+React+Native+%7C+Flutter);Full-Stack+Architect+%26+High-Velocity+Web+Engineer;Turning+Caffeine+%26+Vision+into+Production-Ready+Software" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -50,11 +50,14 @@
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT_%26_AUTOMATION-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Software Development & Automation" />
+        <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING_%26_AI_AUTOMATION-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Software Engineering & AI Automation" />
         <br /><br />
         <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,docker" alt="Systems & Automation Technologies" />
         <br /><br />
         <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Automation" />
+        <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+        <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor AI" />
+        <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
       </td>
     </tr>
   </table>
@@ -73,7 +76,21 @@
 <h3 align="center">TECHNICAL STACK & ARCHITECTURE</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,c,ts,js,py,kotlin,dart,php,html,css,react,nextjs,flutter,laravel,tailwind,nodejs,express,mongodb,postgres,mysql,redis,supabase,firebase,sqlite,prisma,git,github,docker,linux&perline=16" alt="Comprehensive Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,c,ts,js,py,kotlin,dart,php,html,css,react,nextjs,flutter,laravel,tailwind,nodejs,express,mongodb,postgres,mysql,redis,supabase,firebase,sqlite,prisma,git,github,docker,linux,ai&perline=17" alt="Comprehensive Tech Stack" />
+</p>
+
+<h4 align="center">Artificial Intelligence, LLMs & AI Automation</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDguNDg3YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1LTEuOTh2LjE2Nmw0Ljc3NSAyLjc2YS43OTMuNzkzIDAgMCAwIC43ODggMGw1Ljg0My0zLjM3LTIuMDItMS4xNjhhLjA4LjA4IDAgMCAxLS4wMzgtLjA1Mkw5LjIyIDIuMzhhNC41MDQgNC41MDQgMCAwIDEgNi4xNCAxLjY0NnptMTQuMTYgMy4xMjUtNS44NDQgMy4zN2EuNzkzLjc5MyAwIDAgMC0uMzkyLjY4MXY2LjczN2wtMi4wMi0xLjE2OGEuMDcxLjA3MSAwIDAgMS0uMDM4LS4wNTJ2LTUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxIDQuNDk0LTQuNDk0IDQuNDc2IDQuNDc2IDAgMCAxIDIuODc2IDEuMDRsLS4xNDEuMDgxLTQuNzc5IDIuNzU4em0tMS44My0xLjA1Ny0zLjY5LTIuMTMgMy42OS0yLjEzIDMuNjkgMi4xM3oiLz48L3N2Zz4%3D&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/n8n_AI_Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 <h4 align="center">Game Development, 3D Physics & Engines</h4>
@@ -128,9 +145,8 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
-<h4 align="center">DevOps, Systems & Automation</h4>
+<h4 align="center">DevOps, Systems & Tooling</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -140,6 +156,29 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+---
+
+<h3 align="center">CLOUD INFRASTRUCTURE & DOMAIN ECOSYSTEM</h3>
+<p align="center">Directly managing and acquiring cloud compute, web hosting, and domain infrastructure across verified global providers:</p>
+
+<p align="center">
+  <a href="https://contabo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contabo-Cloud_VPS_%26_Dedicated_Servers-002f6c?style=for-the-badge&logo=contabo&logoColor=white" alt="Contabo" />
+  </a>
+  <a href="https://hostinger.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hostinger-Cloud_Web_Infrastructure-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://namecheap.com" target="_blank">
+    <img src="https://img.shields.io/badge/Namecheap-Domain_Registration_%26_DNS-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" alt="Namecheap" />
+  </a>
+  <a href="https://spaceship.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spaceship-NextGen_Domain_Management-6C5CE7?style=for-the-badge&logo=spaceship&logoColor=white" alt="Spaceship" />
+  </a>
 </p>
 
 ---
